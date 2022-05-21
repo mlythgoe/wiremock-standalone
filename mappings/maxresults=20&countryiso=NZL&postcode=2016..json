@@ -1,0 +1,13 @@
+{
+  "request": {
+    "url": "/savs/validateaddress/search/v1?maxresults=20&countryiso=NZL&postcode=2016",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "./maxresults=20&countryiso=NZL&postcode=2016.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
