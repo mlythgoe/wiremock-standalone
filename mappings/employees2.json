@@ -5,7 +5,7 @@
   },
   "response": {
     "status": 200,
-    "body": "{ \"name\":\"Employee Two\" }",
+    "bodyFileName": "./employees2.json",
     "headers": {
       "Content-Type": "application/json"
     }
