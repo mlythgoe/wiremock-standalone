@@ -1,0 +1,9 @@
+{
+  "request": {
+    "url": "/employees/99",
+    "method": "GET"
+  },
+  "response": {
+    "status": 404
+  }
+}

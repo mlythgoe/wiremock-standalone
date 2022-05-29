@@ -1,11 +1,11 @@
 {
   "request": {
-    "url": "/users/2",
-    "method": "GET"
+    "url": "/employees/1",
+    "method": "POST"
   },
   "response": {
     "status": 201,
-    "body": "Hello World, User 2",
+    "body": "{ \"name\":\"Employee One\" }",
     "headers": {
       "Content-Type": "application/json"
     }
