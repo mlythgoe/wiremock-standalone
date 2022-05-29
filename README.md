@@ -1,2 +1,2 @@
-# savs-wiremock
+# wiremock standalone
 
